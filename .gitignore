@@ -1,0 +1,12 @@
+# Ignore envirnonment variables files 
+.env
+.env.local
+
+# Ignore Log files
+*.log
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# ignore test.ipynb file
+test.ipynb

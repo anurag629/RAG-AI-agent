@@ -1,0 +1,5 @@
+llama-index==0.10.37
+pypdf==4.2.0
+python-dotenv==1.0.1
+pandas==2.2.2
+llama-index-experimental==0.1.3
