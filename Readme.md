@@ -1,1 +1,1 @@
-## AI Agent using AGI (Artificial General Intelligence) for extracting information from the different files like CSV, PDF, DOCX, etc.
+## AI Agent using RAG(Retrieval Augmented Generation) for Question Answering
